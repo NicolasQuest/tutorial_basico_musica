@@ -96,7 +96,7 @@ const Harmony = () => {
               </div>
               <div className="modal-body">
                 <p>
-                  La armonía es el arte de formar y enlazar los acordes en la música. Se refiere a la combinación simultánea de notas diferentes que, al sonar juntas, producen un efecto sonoro agradable al oído. Esta técnica es fundamental para enriquecer la melodía y aportar profundidad a las composiciones musicales.
+                  La armonía es el arte de formar y enlazar los acordes en la música. Se refiere a la combinación simultánea de notas diferentes. Esta técnica es fundamental para enriquecer la melodía y aportar profundidad a las composiciones musicales.
                 </p>
                 <p>
                   Por ejemplo, un acorde de Do Mayor está formado por las notas Do, Mi y Sol. Cuando se tocan juntas, producen un sonido brillante y alegre. Los acordes son los bloques de construcción de la música: apoyan a las melodías y le dan estructura a las canciones.
