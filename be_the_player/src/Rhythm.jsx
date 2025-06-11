@@ -105,8 +105,7 @@ const Rhythm = () => {
                   que la música tenga movimiento y pulso.
                 </p>
                 <p>
-                  Por ejemplo, en una canción, el ritmo es lo que te hace querer
-                  bailar o marcar el paso con los pies. Los ritmos pueden ser
+                  Los ritmos pueden ser
                   regulares o irregulares, rápidos o lentos, y son fundamentales
                   para darle vida a la música.
                 </p>
